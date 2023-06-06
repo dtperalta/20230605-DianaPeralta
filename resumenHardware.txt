@@ -1,0 +1,5 @@
+Tres memorias principales:
+
+Registros
+RAM
+ROM 
